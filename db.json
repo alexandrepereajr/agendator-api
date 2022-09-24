@@ -2,10 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "nomeCompleto": "Alexandre Perea Junior",
+      "titulo": "Serviço 1",
+      "descricao": "Aqui uma descricao para o serviço 1",
+      "preco": "320.4"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "servico": {
+    "name": "agendator-api"
   }
 }
