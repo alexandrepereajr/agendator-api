@@ -2,11 +2,24 @@
   "servicos": [
     {
       "id": 1,
-      "title": "hello"
+      "nomeCompleto": "Alexandre Perea Junior",
+      "titulo": "titulo do serviço",
+      "descricao": "aqui uma descrição do serviço 1",
+      "preco": 250
     },
     {
       "id": 2,
-      "title": "hello2"
-    }
+      "nomeCompleto": "Natália Belém Gomes",
+      "titulo": "titulo do serviço 2",
+      "descricao": "aqui uma descrição do serviço 2",
+      "preco": 560.5
+    },
+    {
+      "id": 3,
+      "nomeCompleto": "Josisvaldo da Silva",
+      "titulo": "titulo do serviço 3",
+      "descricao": "aqui uma descrição do serviço 3",
+      "preco": 155.68
+    },
   ]
 }
