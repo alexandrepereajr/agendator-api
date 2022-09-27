@@ -48,7 +48,7 @@
         "titulo": "titulo do serviço 2",
         "descricao": "aqui uma descrição do serviço 2",
         "preco": "560.5"
-      },
+      }},
       {
       "id" : 3,
       "nome": "Alexandre Perea Junior 2",
